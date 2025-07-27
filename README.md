@@ -55,5 +55,26 @@ This solution uses:
 
 ---
 
-## 📂 Repository Structure
+
+
+## ⚙️ Technologies Used
+
+- Python 3.x  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- PyGAD (for Genetic Algorithms)  
+- psutil (for CPU/RAM profiling)  
+
+---
+
+## 🎓 Author
+
+This project was developed as part of the **ITS66604 - Machine Learning & Parallel Computing** module at Taylor’s University (May 2025 semester).
+
+---
+
+## 📝 License
+
+This project is for academic purposes only.
+
+
 
